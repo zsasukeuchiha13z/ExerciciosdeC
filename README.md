@@ -10,6 +10,6 @@ setvbuf(stderr, NULL, _IONBF, 0);
 ```
 
 
-Executável apartir da segunda lista;
+ *Executável apartir da segunda lista;*
 
  
