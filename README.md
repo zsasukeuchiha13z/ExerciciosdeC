@@ -10,6 +10,6 @@ setvbuf(stderr, NULL, _IONBF, 0);
 ```
 
 
-!*Codigo sem .exe*		🙁
+Executável apartir da segunda lista;
 
  
