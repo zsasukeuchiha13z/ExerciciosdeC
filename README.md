@@ -2,7 +2,7 @@
 
 *Desculpe-me a falta de historico do código, comecei assim e preferir terminar também.*
 
-Precisei usar esse codigo(abaixo) na primeira lista.
+Precisei usar esse codigo(abaixo) na Lista 1.
 
 ```
 setvbuf(stdout, NULL, _IONBF, 0);
