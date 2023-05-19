@@ -2,7 +2,7 @@
 
 *Desculpe-me a falta de historico do código, comecei assim e preferir terminar também.*
 
-Precisei usar esse codigo(abaixo) na Lista 1.
+Testei As IDE's por isso tem algumas diferençã de padrão
 
 ```
 setvbuf(stdout, NULL, _IONBF, 0);
