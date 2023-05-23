@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 	int n;
 	int numero;
 	int maior;
-	
+	int quants_maior;
 	
 	printf("Digite a quantidade de numeros: ");
 	scanf("%d",&n);
@@ -23,14 +23,15 @@ int main(int argc, char *argv[]) {
 		s = s + 1;
 		printf("Digite um numero: ");
 		scanf("%d",&numero);
-    }
-	if(numero > maior){
+		if(numero > maior){
 	
 		maior = numero;
-		
-	}
+		quants_maior = quants_maior + 1;
+		}
+    }
+    
 	printf("Maior: %d",maior);
-	
+	printf("Quantidade de numeros lidos: %d",quants_maior);
 	
 	return 0;
 }
