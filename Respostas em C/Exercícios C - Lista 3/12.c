@@ -10,6 +10,7 @@ int main(int argc, char *argv[]) {
 	printf("Escreva ate onde vai(decrescentemente): ");
 	scanf("%d", &n);
 		  //    5
+		  // inicialização, enquanto, incremento
 	for(int i = n;i >= 0;i--){
 		//      o 'n' segura ate onde vai o i
 		printf(" %d ", i);
